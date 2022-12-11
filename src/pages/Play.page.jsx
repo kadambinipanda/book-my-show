@@ -33,7 +33,7 @@ const PlayPage = () => {
                 <Poster
                   isPlay={true}
                   src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-daddy-kool-by-atul-khatri-0-2022-8-16-t-10-37-17.jpg"
-                  title="Daddy kool by atul khatri"
+                  title="Daddy kool by Atul Khatri"
                   subtitle="Comedy Shows | Hindi, English | 16yrs + | 1hr 30mins"
                 />
               </div>
@@ -41,7 +41,7 @@ const PlayPage = () => {
                 <Poster
                   isPlay={true}
                   src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-sunburn-arena-ft-dj-snake-delhi-ncr-0-2022-8-19-t-11-31-17.jpg"
-                  title="sunburn arena ft.dj snake -delhi-ncr"
+                  title="sunburn arena ft.dj Snake -delhi-ncr"
                   subtitle="Comedy Shows | Hindi, English | 16yrs + | 1hr 30mins"
                 />
               </div>
