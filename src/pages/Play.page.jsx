@@ -25,7 +25,7 @@ const PlayPage = () => {
                 <Poster
                   isPlay={true}
                   src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-suhani-shah-kahaani-india-tour-0-2022-8-29-t-12-36-14.jpg"
-                  title="So Rude of Me by Swati Sachdeva"
+                  title="Suhani Shah kahaani India tour"
                   subtitle="Comedy Shows | Hindi, English | 16yrs + | 1hr 30mins"
                 />
               </div>
@@ -33,7 +33,7 @@ const PlayPage = () => {
                 <Poster
                   isPlay={true}
                   src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-daddy-kool-by-atul-khatri-0-2022-8-16-t-10-37-17.jpg"
-                  title="So Rude of Me by Swati Sachdeva"
+                  title="Daddy kool by atul khatri"
                   subtitle="Comedy Shows | Hindi, English | 16yrs + | 1hr 30mins"
                 />
               </div>
@@ -41,7 +41,7 @@ const PlayPage = () => {
                 <Poster
                   isPlay={true}
                   src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-sunburn-arena-ft-dj-snake-delhi-ncr-0-2022-8-19-t-11-31-17.jpg"
-                  title="So Rude of Me by Swati Sachdeva"
+                  title="sunburn arena ft.dj snake -delhi-ncr"
                   subtitle="Comedy Shows | Hindi, English | 16yrs + | 1hr 30mins"
                 />
               </div>
